@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FrameExtractor (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "FrameExtractor (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
